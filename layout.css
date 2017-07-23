@@ -1,0 +1,11 @@
+body, html {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box; }
+
+header {
+  height: 80px;
+  overflow: hidden; }
+
+/*# sourceMappingURL=layout.css.map */

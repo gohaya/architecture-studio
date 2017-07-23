@@ -1,0 +1,13 @@
+.main-sections {
+  overflow: hidden;
+  height: calc(100% - 80px);
+  color: rgba(20, 20, 20, 0.6); }
+
+.section-item {
+  width: 50%;
+  float: left;
+  height: 50%; }
+  .section-item .section-title {
+    color: red; }
+
+/*# sourceMappingURL=style.css.map */

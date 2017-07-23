@@ -1,0 +1,17 @@
+@import "variables";
+.main-sections {
+  overflow: hidden;
+  $red: 20;
+  height: calc(100% - #{$top-bar-h});
+  color: rgba($red, $red, $red, 0.6);
+}
+.section-item {
+  width: 50%;
+  float: left;
+  height: 50%;
+  .section-title{
+    color: red;
+  }
+  .section-content{
+  }
+}
